@@ -121,7 +121,8 @@ Upon swithing on SW[0] which is assigned as PlaySwitch, the game will show chess
 
 The square with the yellow border is the square currently selected. This square can be moved up/down/right/left using the four keys on DE1-SoC. The movement associated with each key press is shown in the game's start screen.
 
-![Game Start Screen](Images/GameSelectSquareScreen.png)
+![GameSelectSquareScreen](https://github.com/Bhaskarnikhilesh/DE1SoC_FPGA_Chess/assets/112621589/96513d6e-ca7b-4554-9521-b4b5177582f6)
+
 
 The player can move the selection towards their chess piece. Once thier chess piece is selected they need to use LockSwitch SW[1] to lock that particular chess piece. This will tell the game that this piece is selected for re-positioning. The yellow border will turn to blue once the piece is locked successfully. If chess piece of opponent is selected the piece won't get locked.
 
