@@ -140,5 +140,3 @@ Once the LockSwitch is switched off it will immediately update the selected ches
 
 
 As the white team captured the black team's King, the white team is the winner. The game ends with a 'WINNER' text displayed on their banner. The game will also end if the countdown timer reaches 0. The player who didn't timeout will be declared as winner.
-
-
