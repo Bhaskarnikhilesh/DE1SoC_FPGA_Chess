@@ -131,7 +131,8 @@ The player can move the selection towards their chess piece. Once thier chess pi
 
 Now the target square can be selected by pressing the four keys. The target square where the chess piece needs to be positioned will he highlighted by a green border.
 
-![Game Start Screen](Images/GameMovePieceScreen.png)
+![GameMovePieceScreen](https://github.com/Bhaskarnikhilesh/DE1SoC_FPGA_Chess/assets/112621589/84a999ff-34a6-4efe-a36a-8d664b6d15c6)
+
 
 Once the LockSwitch is switched off it will immediately update the selected chess piece position. If the target square violates the rules of chess and the movement of that particular chess piece, the position won't get updated. 
 
