@@ -126,7 +126,8 @@ The square with the yellow border is the square currently selected. This square 
 
 The player can move the selection towards their chess piece. Once thier chess piece is selected they need to use LockSwitch SW[1] to lock that particular chess piece. This will tell the game that this piece is selected for re-positioning. The yellow border will turn to blue once the piece is locked successfully. If chess piece of opponent is selected the piece won't get locked.
 
-![Game Start Screen](Images/GameSelectChessmanScreen.png)
+![GameSelectChessmanScreen](https://github.com/Bhaskarnikhilesh/DE1SoC_FPGA_Chess/assets/112621589/e034dfcf-4108-497a-9bec-1b02fe659315)
+
 
 Now the target square can be selected by pressing the four keys. The target square where the chess piece needs to be positioned will he highlighted by a green border.
 
