@@ -136,6 +136,9 @@ Now the target square can be selected by pressing the four keys. The target squa
 
 Once the LockSwitch is switched off it will immediately update the selected chess piece position. If the target square violates the rules of chess and the movement of that particular chess piece, the position won't get updated. 
 
-![Game Start Screen](Images/GameEndScreen.png)
+![GameEndScreen](https://github.com/Bhaskarnikhilesh/DE1SoC_FPGA_Chess/assets/112621589/7d99b839-8481-4f8a-bf43-d5a12f227be3)
+
 
 As the white team captured the black team's King, the white team is the winner. The game ends with a 'WINNER' text displayed on their banner. The game will also end if the countdown timer reaches 0. The player who didn't timeout will be declared as winner.
+
+
