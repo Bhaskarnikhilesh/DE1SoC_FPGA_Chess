@@ -1,4 +1,4 @@
-# ELEC5566M Mini-Project - Timed Chess Game
+ # ELEC5566M Mini-Project - Timed Chess Game
 
 The game is developed for the DE1-SoC board and utilizes the LT24 QVGA display for graphical output. Players can interact with the game using keys for movement and switches for piece selection and game control functions. Additionally, a countdown timer displayed on seven-segment displays adds the option for timed gameplay, enabling different game modes such as blitz chess.
 
@@ -111,7 +111,8 @@ The code for this submodule is taken from [github resources](https://github.com/
 
 When the game is started the LCD will display this screen.
 
-![Game Start Screen](Images/GameStartScreen.png)
+![GameStartScreen](https://github.com/Bhaskarnikhilesh/DE1SoC_FPGA_Chess/assets/112621589/85ab5216-4d80-4ca8-aac2-1413fdfe707f)
+
 
 Upon swithing on SW[0] which is assigned as PlaySwitch, the game will show chess layout. If the timer is enabled using TimerSwitch SW[2] the timer for the white player will immediately start the countdown.
 
