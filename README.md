@@ -116,7 +116,8 @@ When the game is started the LCD will display this screen.
 
 Upon swithing on SW[0] which is assigned as PlaySwitch, the game will show chess layout. If the timer is enabled using TimerSwitch SW[2] the timer for the white player will immediately start the countdown.
 
-![Game Start Screen](Images/GameplayOnHardware.png)
+![GameplayOnHardware](https://github.com/Bhaskarnikhilesh/DE1SoC_FPGA_Chess/assets/112621589/e7abbd4f-f014-4ed8-95ec-ff578833d22c)
+
 
 The square with the yellow border is the square currently selected. This square can be moved up/down/right/left using the four keys on DE1-SoC. The movement associated with each key press is shown in the game's start screen.
 
