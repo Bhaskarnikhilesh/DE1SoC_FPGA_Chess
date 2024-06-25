@@ -1,7 +1,7 @@
 /*
  * ClockFrequencyDivider
  * ----------------
- * By: Yuehan You
+ * By: Nikhilesh Bhaskar
  * Date: 26/04/2024
  *
  * Short Description
