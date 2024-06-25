@@ -1,7 +1,7 @@
 /*
  * ChessEngine
  * ----------------
- * By: Santosh K S
+ * By: Nikhilesh Bhaskar
  * Date: 24/04/2024
  *
  * Short Description
