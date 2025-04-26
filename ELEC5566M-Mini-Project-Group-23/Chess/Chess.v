@@ -1,7 +1,7 @@
 /*
  * Chess
  * ----------------
- * By: Santosh K S
+ * By: Nikhilesh Bhaskar
  * Date: 22/04/2024
  *
  * Short Description
